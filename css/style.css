@@ -440,7 +440,7 @@ ul.minicart .cart-content a:hover,
 .newsletter-form button:hover,
 .fw-link ul li a:hover,
 .copyright-text p a {
-	color: #e4a101;
+	color: #fa981d;
 }
 .header-top-action ul {
 	display: flex;
@@ -550,7 +550,7 @@ ul.minicart .cart-content a:hover,
 	content: "";
 	position: absolute;
 	height: 3px;
-	background: #e4a101;
+	background: #fa981d;
 	right: 40px;
 	left: 0;
 	bottom: 0;
