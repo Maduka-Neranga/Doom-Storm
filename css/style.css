@@ -4668,7 +4668,7 @@ ul.minicart .cart-price .new {
 	background-color: #f9f9f9;
 	background-position: top center;
 	background-size: cover;
-	padding-bottom: 65px;
+	
 	position: relative;
 	z-index: 1;
 }
@@ -4791,7 +4791,7 @@ ul.minicart .cart-price .new {
 	right: 90px;
 }
 .copyright-wrap {
-	background: #140a1c;
+	background: #111111;
 	padding: 20px 0;
 }
 .copyright-text p {
