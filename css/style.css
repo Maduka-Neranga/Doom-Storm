@@ -762,8 +762,8 @@ ul.minicart .cart-price .new {
 	top: 100%;
 	visibility: hidden;
 	min-width: 230px;
-	border: 1px solid #3a2746;
-	background: #1c1421;
+	border: 1px solid #3b3619;
+	background: #111111;
 	box-shadow: 0px 30px 70px 0px rgba(137,139,142,0.15);
 	margin: 0;
 	border-radius: 2px;
@@ -1138,7 +1138,7 @@ ul.minicart .cart-price .new {
 
 /* 4. Breadcrumb */
 .breadcrumb-bg {
-	background-image: url(../img/bg/breadcrumb_bg.jpg);
+	background-image: url(../img/bg/slider_bg.jpg);
 	padding-top: 275px;
 	padding-bottom: 170px;
 	background-position: center;
@@ -2544,20 +2544,20 @@ ul.minicart .cart-price .new {
 	color: #1c1121;
 }
 .latest-match-bg {
-	background-image: url(../img/bg/latest_match_bg.jpg);
+	background-image: url(../img/bg/features_bg.jpg);
 	background-position: center;
 	background-size: cover;
 }
 .latest-match-box {
 	display: flex;
 	align-items: center;
-	background: #211e23;
+	background: #111111;
 	padding: 15px;
 	box-shadow: 0px 5px 12.09px 0.91px rgba(0, 0, 0, 0.34);
 }
 .latest-match-box .tournament-schedule-content {
 	padding: 41px 30px;
-	background: #1c181e;
+	background: #111111;
 }
 .latest-match-box .tournament-schedule-content p {
 	font-size: 13px;
