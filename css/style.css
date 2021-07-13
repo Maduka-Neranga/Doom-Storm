@@ -2545,6 +2545,7 @@ ul.minicart .cart-price .new {
 }
 .latest-match-bg {
 	background-image: url(../img/com/tmTdBg.jpg);
+	
 	background-position: center;
 	background-size: cover;
 }
@@ -2565,6 +2566,7 @@ ul.minicart .cart-price .new {
 }
 .latest-match-bg4 {
 	background-image: url(../img/com/tmTdBg.jpg);
+
 	background-position: center;
 	background-size: cover;
 }
