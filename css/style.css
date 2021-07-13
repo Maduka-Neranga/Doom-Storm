@@ -2548,6 +2548,31 @@ ul.minicart .cart-price .new {
 	background-position: center;
 	background-size: cover;
 }
+.latest-match-bg1 {
+	background-image: url(../img/com/tmOpBg.jpg);
+	background-position: center;
+	background-size: cover;
+}
+.latest-match-bg2 {
+	background-image: url(../img/com/tmThBg.jpg);
+	background-position: center;
+	background-size: cover;
+}
+.latest-match-bg3 {
+	background-image: url(../img/com/tmTmBg.jpg);
+	background-position: center;
+	background-size: cover;
+}
+.latest-match-bg4 {
+	background-image: url(../img/com/tmTdBg.jpg);
+	background-position: center;
+	background-size: cover;
+}
+.latest-match-bg5 {
+	background-image: url(../img/com/tmTdBg.jpg);
+	background-position: center;
+	background-size: cover;
+}
 .latest-match-box {
 	display: flex;
 	align-items: center;
