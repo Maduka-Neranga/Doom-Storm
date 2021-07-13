@@ -1137,8 +1137,15 @@ ul.minicart .cart-price .new {
 }
 
 /* 4. Breadcrumb */
-.breadcrumb-bg {
+.breadcrumb-bgApex {
 	background-image: url(../img/com/aL.jpg);
+	padding-top: 275px;
+	padding-bottom: 170px;
+	background-position: center;
+	background-size: cover;
+}
+.breadcrumb-bgRainbow {
+	background-image: url(../img/com/rBSS.jpg);
 	padding-top: 275px;
 	padding-bottom: 170px;
 	background-position: center;
