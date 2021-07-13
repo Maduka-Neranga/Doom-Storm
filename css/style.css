@@ -2522,7 +2522,6 @@ ul.minicart .cart-price .new {
 	font-size: 13px;
 	font-weight: 700;
 	margin-bottom: 0;
-
 	color: #c9c9c9;
 	text-transform: uppercase;
 	font-family: 'Poppins', sans-serif;
@@ -2545,6 +2544,31 @@ ul.minicart .cart-price .new {
 	color: #1c1121;
 }
 .latest-match-bg {
+	background-image: url(../img/com/tmTdBg.jpg);
+	background-position: center;
+	background-size: cover;
+}
+.latest-match-bg1 {
+	background-image: url(../img/com/tmOpBg.jpg);
+	background-position: center;
+	background-size: cover;
+}
+.latest-match-bg2 {
+	background-image: url(../img/com/tmThBg.jpg);
+	background-position: center;
+	background-size: cover;
+}
+.latest-match-bg3 {
+	background-image: url(../img/com/tmTmBg.jpg);
+	background-position: center;
+	background-size: cover;
+}
+.latest-match-bg4 {
+	background-image: url(../img/com/tmTdBg.jpg);
+	background-position: center;
+	background-size: cover;
+}
+.latest-match-bg5 {
 	background-image: url(../img/com/tmTdBg.jpg);
 	background-position: center;
 	background-size: cover;
