@@ -1158,6 +1158,27 @@ ul.minicart .cart-price .new {
 	background-position: center;
 	background-size: cover;
 }
+.breadcrumb-bgCR {
+	background-image: url(../img/com/CRBG.jpg);
+	padding-top: 275px;
+	padding-bottom: 170px;
+	background-position: center;
+	background-size: cover;
+}
+.breadcrumb-bgFF {
+	background-image: url(../img/com/FFBG.jpg);
+	padding-top: 275px;
+	padding-bottom: 170px;
+	background-position: center;
+	background-size: cover;
+}
+.breadcrumb-bgVAL {
+	background-image: url(../img/com/ValBG.jpg);
+	padding-top: 275px;
+	padding-bottom: 170px;
+	background-position: center;
+	background-size: cover;
+}
 .s-breadcrumb-bg {
 	background-image: url(../img/bg/breadcrumb_bg02.jpg);
 }
