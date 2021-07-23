@@ -4813,14 +4813,20 @@ ul.minicart .cart-price .new {
 	font-size: 14px;
 	border-radius: 2px;
 }
+.footer-social ul li:nth-child(1) a {
+	background: #1565c0;
+}
 .footer-social ul li:nth-child(2) a {
-	background: #55acee;
+	background: #ff0000;
 }
 .footer-social ul li:nth-child(3) a {
-	background: #d71e18;
+	background: #1dcdf0;
 }
 .footer-social ul li:nth-child(4) a {
-	background: #1565c0;
+	background: #f53897;
+}
+.footer-social ul li:nth-child(5) a {
+	background: #a12bf0;
 }
 .footer-newsletter input {
 	width: 100%;
