@@ -1193,6 +1193,27 @@ ul.minicart .cart-price .new {
 	background-position: center;
 	background-size: cover;
 }
+.breadcrumb-bgPUBG {
+	background-image: url(../img/Com/PUBGM.jpg);
+	padding-top: 275px;
+	padding-bottom: 170px;
+	background-position: center;
+	background-size: cover;
+}
+.breadcrumb-bgCSGO {
+	background-image: url(../img/Com/CSGO.jpg);
+	padding-top: 275px;
+	padding-bottom: 170px;
+	background-position: center;
+	background-size: cover;
+}
+.breadcrumb-bgWZ {
+	background-image: url(../img/Com/WarZone.jpg);
+	padding-top: 275px;
+	padding-bottom: 170px;
+	background-position: center;
+	background-size: cover;
+}
 
 .s-breadcrumb-bg {
 	background-image: url(../img/bg/breadcrumb_bg02.jpg);
