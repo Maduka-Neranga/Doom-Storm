@@ -25,6 +25,7 @@
     <link rel="stylesheet" href="css/slick.css">
     <link rel="stylesheet" href="css/default.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/NEWcss.css">
     <link rel="stylesheet" href="css/responsive.css">
 </head>
 
@@ -37,6 +38,7 @@
     <div id="fb-customer-chat" class="fb-customerchat">
     </div>
 
+<!-- 
     <script>
       var chatbox = document.getElementById('fb-customer-chat');
       chatbox.setAttribute("page_id", "104054194372405");
@@ -56,7 +58,7 @@
         js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
         fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));
-    </script>
+    </script> -->
 
     <!-- preloader -->
     <div id="preloader">
@@ -240,9 +242,11 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 order-0 order-lg-2">
-                            <div>
-                                
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/9EWcWgHrabg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <div class="mobile container" id="mobile">                  
+                                <iframe src="https://www.youtube.com/embed/9EWcWgHrabg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                            <div class="desktop" id="desktop">                  
+                                <iframe width="800" height="500" src="https://www.youtube.com/embed/9EWcWgHrabg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -268,9 +272,35 @@
         </div>
         <!-- area-bg-one-end -->
 
+            <!-- features-area NEW-->
+            <section class="features-area features-bg pt-120 pb-70">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-xl-6 col-lg-8">
+                            <div class="section-title title-style-two text-center mb-60">
+                                <span>Start Your Journey With Us</span>
+                                <h2>Why Choose Us <span>Geco</span></h2>
+                                <a href=" https://discord.gg/C8BFj3S"><img src="img/logo/discord.png" width="150" height="100"></a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row justify-content-center">
+                        <div class="col-xl-4 col-md-6">
+                            <iframe src="https://discord.com/widget?id=495185691555397633&theme=dark" width="300" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+                        </div>
+                        <div class="col-xl-4 col-md-6">
+                            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FDoomStormGaming&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=241698916681961" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+                    </div>
+                    
+ 
+                </div>
+            </section>
+            <!-- features-area-end -->
+
 
         <!-- features-area -->
-        <section class="features-area features-bg pt-120 pb-70">
+        <!-- <section class="features-area features-bg pt-120 pb-70">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-xl-6 col-lg-8">
@@ -283,14 +313,18 @@
                 
                 <div class="fact-area pt-90">
                     <div class="row justify-content-center">
-                        <table border="0">
+                        <table>
                             <tr>
                                 <td style="padding-left: 40px; padding-right: 40px;">
+                                    <div class="container"></div>
                                     <iframe src="https://discord.com/widget?id=495185691555397633&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+                                    </div>
                                 </td>
                         
                                 <td style="padding-left: 40px; padding-right: 40px;">
+                                    <div class="container"></div>
                                     <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FDoomStormGaming&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=241698916681961" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+                                    </div>
                                 </td>
                         </tr>
                         </table>
@@ -299,7 +333,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- features-area-end -->
 
 

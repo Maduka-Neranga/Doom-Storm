@@ -1,0 +1,35 @@
+
+@media only screen and (max-width: 635px){
+    .about-us-area #mobile {
+        display: block;
+    }
+    .about-us-area #desktop {
+        display: none;
+    }
+
+
+    .contact-area #mobile{
+        display: block;
+    }
+    .contact-area #desktop{
+        display: none;
+    }
+	
+}
+
+@media only screen and (min-width: 636px){
+    .about-us-area #mobile {
+        display: none;
+    }
+    .about-us-area #desktop {
+        display: block;
+    }
+
+    .contact-area #mobile {
+        display: none;
+    }
+    .contact-area #desktop {
+        display: block;
+    }
+}
+
